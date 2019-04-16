@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-app5-route-level-and-application-level-middleware",
+  "version": "1.0.0",
+  "description": "NodeJS application demo - Route level and Application level Middleware",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJS-App5-Route-Level-and_Application-Level-Middleware"
+  },
+  "keywords": [
+    "nodejs",
+    "middleware",
+    "route",
+    "level",
+    "middleware",
+    "application",
+    "level",
+    "middleware"
+  ],
+  "author": "rinkeshpatel22",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
