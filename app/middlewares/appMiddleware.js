@@ -1,5 +1,5 @@
 let appMiddleware = (req, res, next) => {
-    req.appLevelMessage = 'This is application level middleware  >>> ';
+    req.appLevelMessage = 'This is application level middleware   >>>  ';
 
     // pass control to the next middleware/callback function
     next(); 
